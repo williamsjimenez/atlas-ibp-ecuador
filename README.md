@@ -31,3 +31,8 @@ Es una **versión piloto de discusión y validación**. Las puntuaciones no son 
 ## Próxima fase
 
 Para añadir los **treinta indicadores individuales**, numeradores, denominadores, notas de auditoría, procedencia por celda y gráficos, debe incorporarse y verificarse el libro matriz `20261104_PNE_IBP_1_0_26_SUBZONAS_CON_PROXIES_AUDITADOS.xlsx`, que **no formó parte de los archivos adjuntos al generar este prototipo**. El CSV `IBP_Preguntas_Forms.csv` corresponde a la estructura de preguntas del formulario, no a las 780 celdas auditadas del índice.
+
+
+## Dirección pública del atlas
+
+Una vez completada la publicación desde la rama `main` y la carpeta `/(root)`, el sitio se consulta en https://williamsjimenez.github.io/atlas-ibp-ecuador/.
